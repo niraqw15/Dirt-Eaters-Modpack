@@ -430,11 +430,6 @@
             "fileID": 4027228
         },
         {
-            "fileName": "blockofsky-quilt-0.1.0.jar",
-            "projectID": 757062,
-            "fileID": 4215651
-        },
-        {
             "fileName": "blue_skies-1.19.2-1.3.20.jar",
             "projectID": 312918,
             "fileID": 3966273
@@ -703,11 +698,6 @@
             "fileName": "CreateShrunk-1.19.2-Forge-0.2.jar",
             "projectID": 837782,
             "fileID": 4486387
-        },
-        {
-            "fileName": "Pehkui-3.7.3+1.14.4-1.20.jar",
-            "projectID": 319596,
-            "fileID": 4492272
         },
         {
             "fileName": "creeperoverhaul-2.0.9-forge.jar",
@@ -1128,11 +1118,6 @@
             "fileName": "Highlighter-1.19.1-1.1.4.jar",
             "projectID": 521590,
             "fileID": 3907155
-        },
-        {
-            "fileName": "HorseExpert-v4.0.0-1.19.2-Forge.jar",
-            "projectID": 666942,
-            "fileID": 3961880
         },
         {
             "fileName": "ImmersiveEngineering-1.19.2-9.2.1-164.jar",
@@ -1863,6 +1848,11 @@
             "fileName": "starbunclemania-1.19.2-1.0.6.jar",
             "projectID": 746215,
             "fileID": 4476721
+        },
+        {
+            "fileName": "blockofsky-forge-0.1.0.jar",
+            "projectID": 757062,
+            "fileID": 4215645
         }
     ],
     "overrides": "overrides"
