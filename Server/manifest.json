@@ -1690,19 +1690,19 @@
             "fileID": 4325449
         },
         {
-            "fileName": "AdvancedPeripherals-0.7.22b.jar",
+            "fileName": "AdvancedPeripherals-0.7.27r.jar",
             "projectID": 431725,
-            "fileID": 4131803
+            "fileID": 4491671
         },
         {
-            "fileName": "chisels-and-bits-forge-1.3.129.jar",
-            "projectID": 231095,
-            "fileID": 4402503
-        },
-        {
-            "fileName": "functionalstorage-1.19.2-1.0.8.jar",
+            "fileName": "functionalstorage-1.19.2-1.1.3.jar",
             "projectID": 556861,
-            "fileID": 4118009
+            "fileID": 4324174
+        },
+        {
+            "fileName": "chisels-and-bits-forge-1.3.135.jar",
+            "projectID": 231095,
+            "fileID": 4449160
         }
     ],
     "overrides": "overrides"

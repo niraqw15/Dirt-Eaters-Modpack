@@ -3,7 +3,7 @@
         "version": "1.19.2",
         "modLoaders": [
             {
-                "id": "forge-43.2.0",
+                "id": "forge-43.2.8",
                 "primary": true
             }
         ]
@@ -1828,6 +1828,21 @@
             "fileName": "starbunclemania-1.19.2-1.0.6.jar",
             "projectID": 746215,
             "fileID": 4476721
+        },
+        {
+            "fileName": "AdvancedPeripherals-0.7.27r.jar",
+            "projectID": 431725,
+            "fileID": 4491671
+        },
+        {
+            "fileName": "functionalstorage-1.19.2-1.1.3.jar",
+            "projectID": 556861,
+            "fileID": 4324174
+        },
+        {
+            "fileName": "chisels-and-bits-forge-1.3.135.jar",
+            "projectID": 231095,
+            "fileID": 4449160
         }
     ],
     "overrides": "overrides"
