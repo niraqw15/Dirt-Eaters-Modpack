@@ -15,9 +15,9 @@
     "author": "niraqw15",
     "files": [
         {
-            "fileName": "overweightfarming-1.19.2-2.0.1-forge.jar",
-            "projectID": 591666,
-            "fileID": 4395450
+            "fileName": "framework-0.4.2-1.19.2.jar",
+            "projectID": 549225,
+            "fileID": 4287474
         },
         {
             "fileName": "global_packs-forge-1.19.2-1.14.2_forge.jar",
@@ -25,19 +25,9 @@
             "fileID": 3950165
         },
         {
-            "fileName": "create-1.19.2-0.5.0.i.jar",
-            "projectID": 328085,
-            "fileID": 4371809
-        },
-        {
-            "fileName": "cgm-1.3.4-1.19.2.jar",
-            "projectID": 289479,
-            "fileID": 4390782
-        },
-        {
-            "fileName": "framework-0.4.2-1.19.2.jar",
-            "projectID": 549225,
-            "fileID": 4287474
+            "fileName": "YungsBetterMineshafts-1.19.2-Forge-3.2.0.jar",
+            "projectID": 389665,
+            "fileID": 4031199
         },
         {
             "fileName": "YungsApi-1.19.2-Forge-3.8.9.jar",
@@ -45,9 +35,9 @@
             "fileID": 4441682
         },
         {
-            "fileName": "YungsBetterMineshafts-1.19.2-Forge-3.2.0.jar",
-            "projectID": 389665,
-            "fileID": 4031199
+            "fileName": "overweightfarming-1.19.2-2.0.1-forge.jar",
+            "projectID": 591666,
+            "fileID": 4395450
         },
         {
             "fileName": "YungsBetterDungeons-1.19.2-Forge-3.2.2.jar",
@@ -55,19 +45,14 @@
             "fileID": 4073204
         },
         {
+            "fileName": "cgm-1.3.4-1.19.2.jar",
+            "projectID": 289479,
+            "fileID": 4390782
+        },
+        {
             "fileName": "YungsExtras-1.19.2-Forge-3.1.0.jar",
             "projectID": 480006,
             "fileID": 4031230
-        },
-        {
-            "fileName": "YungsBetterOceanMonuments-1.19.2-Forge-2.1.0.jar",
-            "projectID": 689238,
-            "fileID": 4031366
-        },
-        {
-            "fileName": "YungsBridges-1.19.2-Forge-3.1.0.jar",
-            "projectID": 536660,
-            "fileID": 4031233
         },
         {
             "fileName": "YungsBetterWitchHuts-1.19.2-Forge-2.1.0.jar",
@@ -75,14 +60,19 @@
             "fileID": 4031226
         },
         {
+            "fileName": "YungsBridges-1.19.2-Forge-3.1.0.jar",
+            "projectID": 536660,
+            "fileID": 4031233
+        },
+        {
+            "fileName": "YungsBetterOceanMonuments-1.19.2-Forge-2.1.0.jar",
+            "projectID": 689238,
+            "fileID": 4031366
+        },
+        {
             "fileName": "YungsBetterDesertTemples-1.19.2-Forge-2.2.2.jar",
             "projectID": 631016,
             "fileID": 4419320
-        },
-        {
-            "fileName": "YungsBetterNetherFortresses-1.19.2-Forge-1.0.5.jar",
-            "projectID": 817651,
-            "fileID": 4426795
         },
         {
             "fileName": "yeetusexperimentus-1.0.1-build.2+mc1.19.1.jar",
@@ -90,14 +80,9 @@
             "fileID": 3909789
         },
         {
-            "fileName": "endrem_forge-5.2.1-R-1.19.X.jar",
-            "projectID": 404183,
-            "fileID": 4046639
-        },
-        {
-            "fileName": "integrated_stronghold_forge-1.0.1+1.19.2.jar",
-            "projectID": 815548,
-            "fileID": 4423189
+            "fileName": "YungsBetterNetherFortresses-1.19.2-Forge-1.0.5.jar",
+            "projectID": 817651,
+            "fileID": 4426795
         },
         {
             "fileName": "integrated_api_forge-1.2.7+1.19.2.jar",
@@ -105,14 +90,9 @@
             "fileID": 4446914
         },
         {
-            "fileName": "idas_forge-1.7.0+1.19.2.jar",
-            "projectID": 605375,
-            "fileID": 4480974
-        },
-        {
-            "fileName": "Quark-3.4-397.jar",
-            "projectID": 243121,
-            "fileID": 4480516
+            "fileName": "endrem_forge-5.2.1-R-1.19.X.jar",
+            "projectID": 404183,
+            "fileID": 4046639
         },
         {
             "fileName": "AutoRegLib-1.8.2-55.jar",
@@ -130,9 +110,14 @@
             "fileID": 4434397
         },
         {
-            "fileName": "alexsmobs-1.21.1.jar",
-            "projectID": 426558,
-            "fileID": 4159154
+            "fileName": "TerraBlender-forge-1.19.2-2.0.1.136.jar",
+            "projectID": 563928,
+            "fileID": 4205732
+        },
+        {
+            "fileName": "integrated_stronghold_forge-1.0.1+1.19.2.jar",
+            "projectID": 815548,
+            "fileID": 4423189
         },
         {
             "fileName": "citadel-2.1.3-1.19.jar",
@@ -140,24 +125,19 @@
             "fileID": 4473243
         },
         {
-            "fileName": "BiomesOPlenty-1.19.2-17.1.1.162.jar",
-            "projectID": 220318,
-            "fileID": 4034263
-        },
-        {
-            "fileName": "TerraBlender-forge-1.19.2-2.0.1.136.jar",
-            "projectID": 563928,
-            "fileID": 4205732
-        },
-        {
-            "fileName": "supplementaries-1.19.2-2.3.4.jar",
-            "projectID": 412082,
-            "fileID": 4488276
-        },
-        {
             "fileName": "abnormals_delight-1.19.2-4.0.2.jar",
             "projectID": 442719,
             "fileID": 4415502
+        },
+        {
+            "fileName": "idas_forge-1.7.0+1.19.2.jar",
+            "projectID": 605375,
+            "fileID": 4480974
+        },
+        {
+            "fileName": "create-1.19.2-0.5.0.i.jar",
+            "projectID": 328085,
+            "fileID": 4371809
         },
         {
             "fileName": "FarmersDelight-1.19-1.2.0.jar",
@@ -185,11 +165,6 @@
             "fileID": 4394653
         },
         {
-            "fileName": "Chimes-1.1.4-1.19.jar",
-            "projectID": 350464,
-            "fileID": 3921709
-        },
-        {
             "fileName": "additional_lights-1.19-2.1.6.jar",
             "projectID": 384991,
             "fileID": 4410874
@@ -205,6 +180,11 @@
             "fileID": 4016401
         },
         {
+            "fileName": "Quark-3.4-397.jar",
+            "projectID": 243121,
+            "fileID": 4480516
+        },
+        {
             "fileName": "AdPoles-1.19.2-8.0.2.0-build.0543.jar",
             "projectID": 272190,
             "fileID": 3921409
@@ -215,14 +195,14 @@
             "fileID": 4491671
         },
         {
-            "fileName": "cc-tweaked-1.19.2-1.101.2.jar",
-            "projectID": 282001,
-            "fileID": 4395619
-        },
-        {
             "fileName": "advancementframes-1.19.2-2.0.0.jar",
             "projectID": 556795,
             "fileID": 3948167
+        },
+        {
+            "fileName": "cc-tweaked-1.19.2-1.101.2.jar",
+            "projectID": 282001,
+            "fileID": 4395619
         },
         {
             "fileName": "AdvancementPlaques-1.19.2-1.4.7.jar",
@@ -233,11 +213,6 @@
             "fileName": "Iceberg-1.19.2-forge-1.1.4.jar",
             "projectID": 520110,
             "fileID": 4300529
-        },
-        {
-            "fileName": "alexsdelight-1.4.1.jar",
-            "projectID": 556448,
-            "fileID": 4282385
         },
         {
             "fileName": "alloyed-1.19.2-v1.5.jar",
@@ -260,19 +235,14 @@
             "fileID": 4026845
         },
         {
+            "fileName": "Chimes-1.1.4-1.19.jar",
+            "projectID": 350464,
+            "fileID": 3921709
+        },
+        {
             "fileName": "Aquaculture-1.19.2-2.4.8.jar",
             "projectID": 60028,
             "fileID": 4074684
-        },
-        {
-            "fileName": "aquamirae-5.6.API14.jar",
-            "projectID": 536254,
-            "fileID": 4375476
-        },
-        {
-            "fileName": "obscure_api-14.jar",
-            "projectID": 638417,
-            "fileID": 4375475
         },
         {
             "fileName": "archers_paradox-1.19.2-4.2.0.13.jar",
@@ -280,9 +250,14 @@
             "fileID": 4382361
         },
         {
-            "fileName": "cofh_core-1.19.2-10.2.1.40.jar",
-            "projectID": 69162,
-            "fileID": 4385216
+            "fileName": "supplementaries-1.19.2-2.3.4.jar",
+            "projectID": 412082,
+            "fileID": 4488276
+        },
+        {
+            "fileName": "obscure_api-14.jar",
+            "projectID": 638417,
+            "fileID": 4375475
         },
         {
             "fileName": "architectury-6.5.77-forge.jar",
@@ -290,9 +265,9 @@
             "fileID": 4476084
         },
         {
-            "fileName": "ars_nouveau-1.19.2-3.13.2.jar",
-            "projectID": 401955,
-            "fileID": 4477656
+            "fileName": "cofh_core-1.19.2-10.2.1.40.jar",
+            "projectID": 69162,
+            "fileID": 4385216
         },
         {
             "fileName": "Patchouli-1.19.2-77.jar",
@@ -310,11 +285,6 @@
             "fileID": 4291461
         },
         {
-            "fileName": "ars_elemental-1.19.2-0.5.8.2.jar",
-            "projectID": 561470,
-            "fileID": 4424442
-        },
-        {
             "fileName": "arsarmiger-1.19.2-1.4.0.jar",
             "projectID": 827926,
             "fileID": 4418264
@@ -325,9 +295,14 @@
             "fileID": 3941314
         },
         {
-            "fileName": "tetra-1.19.2-5.2.1.jar",
-            "projectID": 289712,
-            "fileID": 4487237
+            "fileName": "ars_elemental-1.19.2-0.5.8.2.jar",
+            "projectID": 561470,
+            "fileID": 4424442
+        },
+        {
+            "fileName": "BiomesOPlenty-1.19.2-17.1.1.162.jar",
+            "projectID": 220318,
+            "fileID": 4034263
         },
         {
             "fileName": "art_of_forging-1.6.3-1.19.2.jar",
@@ -335,9 +310,9 @@
             "fileID": 4490920
         },
         {
-            "fileName": "artifacts-1.19.2-5.0.2.jar",
-            "projectID": 312353,
-            "fileID": 4430856
+            "fileName": "alexsmobs-1.21.1.jar",
+            "projectID": 426558,
+            "fileID": 4159154
         },
         {
             "fileName": "astikorcarts-1.19.2-1.1.2.jar",
@@ -345,14 +320,14 @@
             "fileID": 4367405
         },
         {
+            "fileName": "artifacts-1.19.2-5.0.2.jar",
+            "projectID": 312353,
+            "fileID": 4430856
+        },
+        {
             "fileName": "asynclocator-1.19.2-1.2.0.jar",
             "projectID": 625069,
             "fileID": 4257310
-        },
-        {
-            "fileName": "atmospheric-1.19.2-5.0.0.jar",
-            "projectID": 362393,
-            "fileID": 4415516
         },
         {
             "fileName": "AttributeFix-Forge-1.19.2-17.2.6.jar",
@@ -360,14 +335,14 @@
             "fileID": 4436598
         },
         {
-            "fileName": "autoplant-1.19-1.0.1.jar",
-            "projectID": 444013,
-            "fileID": 3914543
+            "fileName": "tetra-1.19.2-5.2.1.jar",
+            "projectID": 289712,
+            "fileID": 4487237
         },
         {
-            "fileName": "autumnity-1.19.2-4.0.0.jar",
-            "projectID": 365045,
-            "fileID": 4415512
+            "fileName": "atmospheric-1.19.2-5.0.0.jar",
+            "projectID": 362393,
+            "fileID": 4415516
         },
         {
             "fileName": "balm-forge-1.19.2-4.5.7.jar",
@@ -375,14 +350,9 @@
             "fileID": 4442591
         },
         {
-            "fileName": "baubley-heart-canisters-1.19.2-2.0.0.jar",
-            "projectID": 282947,
-            "fileID": 4484693
-        },
-        {
-            "fileName": "berry_good-1.19.2-6.0.1.jar",
-            "projectID": 355589,
-            "fileID": 4023072
+            "fileName": "autumnity-1.19.2-4.0.0.jar",
+            "projectID": 365045,
+            "fileID": 4415512
         },
         {
             "fileName": "BetterAdvancements-1.19.2-0.2.2.142.jar",
@@ -390,9 +360,9 @@
             "fileID": 3940452
         },
         {
-            "fileName": "cloth-config-8.2.88-forge.jar",
-            "projectID": 348521,
-            "fileID": 3972423
+            "fileName": "baubley-heart-canisters-1.19.2-2.0.0.jar",
+            "projectID": 282947,
+            "fileID": 4484693
         },
         {
             "fileName": "betterlily.jar",
@@ -400,19 +370,14 @@
             "fileID": 3989666
         },
         {
-            "fileName": "spelunkery-1.19.2-0.2.0-forge.jar",
-            "projectID": 790530,
-            "fileID": 4462888
+            "fileName": "cloth-config-8.2.88-forge.jar",
+            "projectID": 348521,
+            "fileID": 3972423
         },
         {
-            "fileName": "Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.0.13.jar",
-            "projectID": 247560,
-            "fileID": 4027228
-        },
-        {
-            "fileName": "blue_skies-1.19.2-1.3.20.jar",
-            "projectID": 312918,
-            "fileID": 3966273
+            "fileName": "berry_good-1.19.2-6.0.1.jar",
+            "projectID": 355589,
+            "fileID": 4023072
         },
         {
             "fileName": "blueflame-1.19.2-0.1.0.2.jar",
@@ -420,14 +385,29 @@
             "fileID": 4034673
         },
         {
-            "fileName": "structure_gel-1.19.2-2.7.2.jar",
-            "projectID": 378802,
-            "fileID": 4489756
+            "fileName": "spelunkery-1.19.2-0.2.0-forge.jar",
+            "projectID": 790530,
+            "fileID": 4462888
+        },
+        {
+            "fileName": "ars_nouveau-1.19.2-3.13.2.jar",
+            "projectID": 401955,
+            "fileID": 4477656
+        },
+        {
+            "fileName": "autoplant-1.19-1.0.1.jar",
+            "projectID": 444013,
+            "fileID": 3914543
         },
         {
             "fileName": "jumpboat-1.19-0.1.0.5.jar",
             "projectID": 542110,
             "fileID": 3877554
+        },
+        {
+            "fileName": "structure_gel-1.19.2-2.7.2.jar",
+            "projectID": 378802,
+            "fileID": 4489756
         },
         {
             "fileName": "boatload-1.19.2-4.2.1.jar",
@@ -438,11 +418,6 @@
             "fileName": "Bookshelf-Forge-1.19.2-16.2.18.jar",
             "projectID": 228525,
             "fileID": 4426591
-        },
-        {
-            "fileName": "Botania-1.19.2-438-FORGE.jar",
-            "projectID": 225643,
-            "fileID": 4415871
         },
         {
             "fileName": "brazier-forge-5.0.0.jar",
@@ -460,9 +435,9 @@
             "fileID": 3912010
         },
         {
-            "fileName": "camera-1.19.2-1.0.1.jar",
-            "projectID": 289310,
-            "fileID": 3970107
+            "fileName": "aquamirae-5.6.API14.jar",
+            "projectID": 536254,
+            "fileID": 4375476
         },
         {
             "fileName": "caelus-forge-1.19.2-3.0.0.6.jar",
@@ -475,14 +450,9 @@
             "fileID": 4364928
         },
         {
-            "fileName": "cccbridge-1.4.1-forge.jar",
-            "projectID": 656214,
-            "fileID": 4417214
-        },
-        {
-            "fileName": "cfm-7.0.0-pre35-1.19.2.jar",
-            "projectID": 55438,
-            "fileID": 4374996
+            "fileName": "camera-1.19.2-1.0.1.jar",
+            "projectID": 289310,
+            "fileID": 3970107
         },
         {
             "fileName": "chalk-1.19-1.4.0.jar",
@@ -495,29 +465,14 @@
             "fileID": 4346537
         },
         {
-            "fileName": "chisels-and-bits-forge-1.3.135.jar",
-            "projectID": 231095,
-            "fileID": 4449160
+            "fileName": "cccbridge-1.4.1-forge.jar",
+            "projectID": 656214,
+            "fileID": 4417214
         },
         {
-            "fileName": "claysoldiers2-0.0.3.jar",
-            "projectID": 556740,
-            "fileID": 4259966
-        },
-        {
-            "fileName": "multicore_lib-1.19.2-0.4.0.jar",
-            "projectID": 495322,
-            "fileID": 3958493
-        },
-        {
-            "fileName": "geckolib-forge-1.19-3.1.40.jar",
-            "projectID": 388172,
-            "fileID": 4407241
-        },
-        {
-            "fileName": "clayworks-1.19.2-2.0.1.jar",
-            "projectID": 592162,
-            "fileID": 4396960
+            "fileName": "cfm-7.0.0-pre35-1.19.2.jar",
+            "projectID": 55438,
+            "fileID": 4374996
         },
         {
             "fileName": "clickadv-1.19.2-3.0.jar",
@@ -525,19 +480,39 @@
             "fileID": 4258154
         },
         {
+            "fileName": "multicore_lib-1.19.2-0.4.0.jar",
+            "projectID": 495322,
+            "fileID": 3958493
+        },
+        {
+            "fileName": "clayworks-1.19.2-2.0.1.jar",
+            "projectID": 592162,
+            "fileID": 4396960
+        },
+        {
+            "fileName": "chisels-and-bits-forge-1.3.135.jar",
+            "projectID": 231095,
+            "fileID": 4449160
+        },
+        {
             "fileName": "Clumps-forge-1.19.2-9.0.0+14.jar",
             "projectID": 256717,
             "fileID": 4153347
         },
         {
-            "fileName": "collectorsreap-1.19-1.2.3.jar",
-            "projectID": 807101,
-            "fileID": 4485855
+            "fileName": "geckolib-forge-1.19-3.1.40.jar",
+            "projectID": 388172,
+            "fileID": 4407241
         },
         {
             "fileName": "configured-2.1.1-1.19.2.jar",
             "projectID": 457570,
             "fileID": 4462837
+        },
+        {
+            "fileName": "collectorsreap-1.19-1.2.3.jar",
+            "projectID": 807101,
+            "fileID": 4485855
         },
         {
             "fileName": "connectedglass-1.1.6-forge-mc1.19.jar",
@@ -550,9 +525,9 @@
             "fileID": 4484238
         },
         {
-            "fileName": "cookingforblockheads-forge-1.19.2-13.3.1.jar",
-            "projectID": 231484,
-            "fileID": 4414171
+            "fileName": "corpse-1.19.2-1.0.0.jar",
+            "projectID": 316582,
+            "fileID": 3920717
         },
         {
             "fileName": "resourcefullib-forge-1.19.2-1.1.24.jar",
@@ -560,14 +535,19 @@
             "fileID": 4477753
         },
         {
-            "fileName": "corpse-1.19.2-1.0.0.jar",
-            "projectID": 316582,
-            "fileID": 3920717
+            "fileName": "cookingforblockheads-forge-1.19.2-13.3.1.jar",
+            "projectID": 231484,
+            "fileID": 4414171
         },
         {
             "fileName": "CosmeticArmorReworked-1.19.2-v1a.jar",
             "projectID": 237307,
             "fileID": 4016732
+        },
+        {
+            "fileName": "Botania-1.19.2-438-FORGE.jar",
+            "projectID": 225643,
+            "fileID": 4415871
         },
         {
             "fileName": "craftingtweaks-forge-1.19-15.1.6.jar",
@@ -580,19 +560,14 @@
             "fileID": 4406293
         },
         {
+            "fileName": "sliceanddice-2.0.3.jar",
+            "projectID": 659674,
+            "fileID": 4412585
+        },
+        {
             "fileName": "createaddition-1.19.2-20230411a.jar",
             "projectID": 439890,
             "fileID": 4486261
-        },
-        {
-            "fileName": "createdeco-1.3.0-1.19.2.jar",
-            "projectID": 509285,
-            "fileID": 4476781
-        },
-        {
-            "fileName": "Steam_Rails-1.19.2-1.1.1.jar",
-            "projectID": 688231,
-            "fileID": 4384699
         },
         {
             "fileName": "create_enchantment_industry-1.19.2-for-create-0.5.0.i-1.1.17.jar",
@@ -600,9 +575,9 @@
             "fileID": 4489274
         },
         {
-            "fileName": "sliceanddice-2.0.3.jar",
-            "projectID": 659674,
-            "fileID": 4412585
+            "fileName": "flywheel-forge-1.19.2-0.6.8.a.jar",
+            "projectID": 486392,
+            "fileID": 4341471
         },
         {
             "fileName": "extendedflywheels-1.2.5-1.19.2-0.5.f.jar",
@@ -610,9 +585,9 @@
             "fileID": 4167521
         },
         {
-            "fileName": "kotlinforforge-3.11.0-all.jar",
-            "projectID": 351264,
-            "fileID": 4439494
+            "fileName": "createdeco-1.3.0-1.19.2.jar",
+            "projectID": 509285,
+            "fileID": 4476781
         },
         {
             "fileName": "createbigcannons-1.19.2-beta-0.5.b.jar",
@@ -620,9 +595,9 @@
             "fileID": 4403788
         },
         {
-            "fileName": "flywheel-forge-1.19.2-0.6.8.a.jar",
-            "projectID": 486392,
-            "fileID": 4341471
+            "fileName": "create_crystal_clear-0.1.2e-1.19.2.jar",
+            "projectID": 669724,
+            "fileID": 4226036
         },
         {
             "fileName": "create_jetpack-2.1.3.jar",
@@ -630,19 +605,14 @@
             "fileID": 4345087
         },
         {
-            "fileName": "create_crystal_clear-0.1.2e-1.19.2.jar",
-            "projectID": 669724,
-            "fileID": 4226036
+            "fileName": "createbb-2.1.jar",
+            "projectID": 635620,
+            "fileID": 4363838
         },
         {
             "fileName": "create_central_kitchen-1.19.2-for-create-0.5.0.i-1.3.2.jar",
             "projectID": 820977,
             "fileID": 4488796
-        },
-        {
-            "fileName": "createbb-2.1.jar",
-            "projectID": 635620,
-            "fileID": 4363838
         },
         {
             "fileName": "extendedgears-2.0.2-1.19.2-0.5.0.iforge-1.19.2.jar",
@@ -655,29 +625,14 @@
             "fileID": 4484879
         },
         {
+            "fileName": "Steam_Rails-1.19.2-1.1.1.jar",
+            "projectID": 688231,
+            "fileID": 4384699
+        },
+        {
             "fileName": "Pehkui-3.7.3+1.19.2-forge.jar",
             "projectID": 319596,
             "fileID": 4492252
-        },
-        {
-            "fileName": "CreateShrunk-1.19.2-Forge-0.2.jar",
-            "projectID": 837782,
-            "fileID": 4486387
-        },
-        {
-            "fileName": "creeperoverhaul-2.0.9-forge.jar",
-            "projectID": 561625,
-            "fileID": 4444675
-        },
-        {
-            "fileName": "ctov-3.1.8.jar",
-            "projectID": 623908,
-            "fileID": 4436739
-        },
-        {
-            "fileName": "culturaldelights-1.19.2-0.15.1.jar",
-            "projectID": 574622,
-            "fileID": 4366957
         },
         {
             "fileName": "CuriosQuarkOBP-1.19.2-1.2.2.jar",
@@ -690,6 +645,16 @@
             "fileID": 3575623
         },
         {
+            "fileName": "creeperoverhaul-2.0.9-forge.jar",
+            "projectID": 561625,
+            "fileID": 4444675
+        },
+        {
+            "fileName": "kotlinforforge-3.11.0-all.jar",
+            "projectID": 351264,
+            "fileID": 4439494
+        },
+        {
             "fileName": "time-in-a-bottle-3.0.1-mc1.19.jar",
             "projectID": 445025,
             "fileID": 3879896
@@ -700,24 +665,9 @@
             "fileID": 4482228
         },
         {
-            "fileName": "curiouslanterns-1.19.2-1.2.2.jar",
-            "projectID": 621377,
-            "fileID": 4452734
-        },
-        {
             "fileName": "customizableelytra-1.19.0-1.7.4.jar",
             "projectID": 440047,
             "fileID": 4101953
-        },
-        {
-            "fileName": "deeperdarker-forge-1.1.6-forge.jar",
-            "projectID": 659011,
-            "fileID": 4166676
-        },
-        {
-            "fileName": "DarkerDepths-1.19.2-1.0.0.jar",
-            "projectID": 460681,
-            "fileID": 4393843
         },
         {
             "fileName": "DarkPaintings-Forge-1.19.2-13.1.5.jar",
@@ -725,24 +675,29 @@
             "fileID": 4357106
         },
         {
+            "fileName": "ctov-3.1.8.jar",
+            "projectID": 623908,
+            "fileID": 4436739
+        },
+        {
+            "fileName": "DarkerDepths-1.19.2-1.0.0.jar",
+            "projectID": 460681,
+            "fileID": 4393843
+        },
+        {
             "fileName": "Decorative Blocks-forge-1.19.2-3.0.0.jar",
             "projectID": 362528,
             "fileID": 3941638
         },
         {
-            "fileName": "engineersdecor-1.19.2-forge-1.3.28.jar",
-            "projectID": 313866,
-            "fileID": 4258184
+            "fileName": "deeper_oceans-1.19-v1-0.jar",
+            "projectID": 714177,
+            "fileID": 4118809
         },
         {
             "fileName": "DustrialDecor-1.3.3-1.19.2.jar",
             "projectID": 401273,
             "fileID": 4103964
-        },
-        {
-            "fileName": "deeper_oceans-1.19-v1-0.jar",
-            "projectID": 714177,
-            "fileID": 4118809
         },
         {
             "fileName": "DefaultSettings-1.19.2-4.0.5-Forge.jar",
@@ -755,9 +710,9 @@
             "fileID": 4431131
         },
         {
-            "fileName": "Delightful-1.19.2-3.2.4.jar",
-            "projectID": 637529,
-            "fileID": 4487106
+            "fileName": "engineersdecor-1.19.2-forge-1.3.28.jar",
+            "projectID": 313866,
+            "fileID": 4258184
         },
         {
             "fileName": "resourcefulconfig-forge-1.19.2-1.0.20.jar",
@@ -770,14 +725,14 @@
             "fileID": 4026713
         },
         {
+            "fileName": "Delightful-1.19.2-3.2.4.jar",
+            "projectID": 637529,
+            "fileID": 4487106
+        },
+        {
             "fileName": "domesticationinnovation-1.6.1-1.19.2.jar",
             "projectID": 591149,
             "fileID": 4154024
-        },
-        {
-            "fileName": "DripSounds-1.19-0.3.0.jar",
-            "projectID": 390986,
-            "fileID": 3922079
         },
         {
             "fileName": "dummmmmmy-1.19.2-1.7.1.jar",
@@ -785,14 +740,19 @@
             "fileID": 4410143
         },
         {
-            "fileName": "DungeonCrawl-1.19-2.3.12.jar",
-            "projectID": 324973,
-            "fileID": 4437208
-        },
-        {
             "fileName": "dynamiclightsreforged-1.19.2_v1.4.0.jar",
             "projectID": 551736,
             "fileID": 4285414
+        },
+        {
+            "fileName": "DripSounds-1.19-0.3.0.jar",
+            "projectID": 390986,
+            "fileID": 3922079
+        },
+        {
+            "fileName": "DungeonCrawl-1.19-2.3.12.jar",
+            "projectID": 324973,
+            "fileID": 4437208
         },
         {
             "fileName": "eccentrictome-1.19.2-1.9.1.jar",
@@ -830,11 +790,6 @@
             "fileID": 4032160
         },
         {
-            "fileName": "Enhanced_Celestials-forge-1.19.2-2.1.0.5.jar",
-            "projectID": 438447,
-            "fileID": 4393946
-        },
-        {
             "fileName": "ensorcellation-1.19.2-4.2.0.14.jar",
             "projectID": 349447,
             "fileID": 4382362
@@ -850,19 +805,19 @@
             "fileID": 3871792
         },
         {
+            "fileName": "Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.0.13.jar",
+            "projectID": 247560,
+            "fileID": 4027228
+        },
+        {
             "fileName": "PuzzlesLib-v4.3.12-1.19.2-Forge.jar",
             "projectID": 495476,
             "fileID": 4041202
         },
         {
-            "fileName": "CorgiLib-forge-1.19.2-1.0.0.32.jar",
-            "projectID": 693313,
-            "fileID": 4416614
-        },
-        {
-            "fileName": "environmental-1.19.2-3.0.0.jar",
-            "projectID": 388992,
-            "fileID": 4415514
+            "fileName": "Enhanced_Celestials-forge-1.19.2-2.1.0.5.jar",
+            "projectID": 438447,
+            "fileID": 4393946
         },
         {
             "fileName": "EquipmentCompare-1.19.2-forge-1.3.2.jar",
@@ -870,14 +825,9 @@
             "fileID": 4282005
         },
         {
-            "fileName": "everycomp-1.19.2-2.3.3.jar",
-            "projectID": 628539,
-            "fileID": 4476766
-        },
-        {
-            "fileName": "ExperienceBugFix-1.19-1.41.2.3.jar",
-            "projectID": 486778,
-            "fileID": 4178188
+            "fileName": "CorgiLib-forge-1.19.2-1.0.0.32.jar",
+            "projectID": 693313,
+            "fileID": 4416614
         },
         {
             "fileName": "ExplorersCompass-1.19.2-1.3.0-forge.jar",
@@ -900,14 +850,9 @@
             "fileID": 4081312
         },
         {
-            "fileName": "respiteful-1.19.2-1.1.0-patch.1.jar",
-            "projectID": 836471,
-            "fileID": 4463913
-        },
-        {
-            "fileName": "neapolitan-1.19.2-4.0.2.jar",
-            "projectID": 382016,
-            "fileID": 4023083
+            "fileName": "everycomp-1.19.2-2.3.3.jar",
+            "projectID": 628539,
+            "fileID": 4476766
         },
         {
             "fileName": "FastWorkbench-1.19.2-7.1.0.jar",
@@ -925,6 +870,11 @@
             "fileID": 4452975
         },
         {
+            "fileName": "respiteful-1.19.2-1.1.0-patch.1.jar",
+            "projectID": 836471,
+            "fileID": 4463913
+        },
+        {
             "fileName": "FastSuite-1.19.2-4.1.0.jar",
             "projectID": 475117,
             "fileID": 4485308
@@ -940,6 +890,11 @@
             "fileID": 4117906
         },
         {
+            "fileName": "environmental-1.19.2-3.0.0.jar",
+            "projectID": 388992,
+            "fileID": 4415514
+        },
+        {
             "fileName": "findme-3.1.0-forge.jar",
             "projectID": 291936,
             "fileID": 3910001
@@ -950,14 +905,19 @@
             "fileID": 3833506
         },
         {
-            "fileName": "FramedBlocks-6.8.3.jar",
-            "projectID": 441647,
-            "fileID": 4481609
-        },
-        {
             "fileName": "fuelgoeshere-1.19.2-0.1.0.0.jar",
             "projectID": 659090,
             "fileID": 3933961
+        },
+        {
+            "fileName": "neapolitan-1.19.2-4.0.2.jar",
+            "projectID": 382016,
+            "fileID": 4023083
+        },
+        {
+            "fileName": "deeperdarker-forge-1.1.6-forge.jar",
+            "projectID": 659011,
+            "fileID": 4166676
         },
         {
             "fileName": "functionalstorage-1.19.2-1.1.3.jar",
@@ -970,9 +930,9 @@
             "fileID": 4484497
         },
         {
-            "fileName": "Functional Storage Extra 1.19.2-1.0.2.jar",
-            "projectID": 714662,
-            "fileID": 4490119
+            "fileName": "glassential-forge-1.19-1.2.4.jar",
+            "projectID": 319194,
+            "fileID": 3901780
         },
         {
             "fileName": "GameMenuModOption-1.19-1.18.jar",
@@ -980,19 +940,9 @@
             "fileID": 3904123
         },
         {
-            "fileName": "glassential-forge-1.19-1.2.4.jar",
-            "projectID": 319194,
-            "fileID": 3901780
-        },
-        {
-            "fileName": "goated-1.19.2-1.3.1.jar",
-            "projectID": 805646,
-            "fileID": 4467721
-        },
-        {
-            "fileName": "grappling_hook_mod-1.19.2-1.19.2-v13.jar",
-            "projectID": 238911,
-            "fileID": 3968748
+            "fileName": "FramedBlocks-6.8.3.jar",
+            "projectID": 441647,
+            "fileID": 4481609
         },
         {
             "fileName": "guardvillagers-1.19.2-1.5.5.jar",
@@ -1000,9 +950,9 @@
             "fileID": 4432658
         },
         {
-            "fileName": "handcrafted-forge-1.19.2-2.0.6.jar",
-            "projectID": 538214,
-            "fileID": 4437459
+            "fileName": "Functional Storage Extra 1.19.2-1.0.2.jar",
+            "projectID": 714662,
+            "fileID": 4490119
         },
         {
             "fileName": "harvestwithease-1.19.2-6.0.1.2-final-forge.jar",
@@ -1015,14 +965,19 @@
             "fileID": 4417094
         },
         {
-            "fileName": "hexal-forge-1.19.2-0.2.14.jar",
-            "projectID": 824725,
-            "fileID": 4491342
+            "fileName": "goated-1.19.2-1.3.1.jar",
+            "projectID": 805646,
+            "fileID": 4467721
         },
         {
-            "fileName": "hexcasting-forge-1.19.2-0.10.3.jar",
-            "projectID": 569849,
-            "fileID": 4166956
+            "fileName": "grappling_hook_mod-1.19.2-1.19.2-v13.jar",
+            "projectID": 238911,
+            "fileID": 3968748
+        },
+        {
+            "fileName": "handcrafted-forge-1.19.2-2.0.6.jar",
+            "projectID": 538214,
+            "fileID": 4437459
         },
         {
             "fileName": "paucal-forge-1.19.2-0.5.0.jar",
@@ -1030,19 +985,14 @@
             "fileID": 4100645
         },
         {
-            "fileName": "hexerei-0.3.0.jar",
-            "projectID": 548599,
-            "fileID": 4466686
+            "fileName": "incubation-1.19-3.0.0.jar",
+            "projectID": 361718,
+            "fileID": 3906687
         },
         {
-            "fileName": "ImmersiveEngineering-1.19.2-9.2.1-164.jar",
-            "projectID": 231951,
-            "fileID": 4478894
-        },
-        {
-            "fileName": "immersive_weathering-1.19.2-1.2.9-forge.jar",
-            "projectID": 592449,
-            "fileID": 4478201
+            "fileName": "hexal-forge-1.19.2-0.2.14.jar",
+            "projectID": 824725,
+            "fileID": 4491342
         },
         {
             "fileName": "immersive-portals-2.3.5-mc1.19.2-forge.jar",
@@ -1050,19 +1000,24 @@
             "fileID": 4477626
         },
         {
-            "fileName": "incubation-1.19-3.0.0.jar",
-            "projectID": 361718,
-            "fileID": 3906687
-        },
-        {
-            "fileName": "infernal-expansion-1.19.2-2.5.3.jar",
-            "projectID": 395078,
-            "fileID": 4002091
+            "fileName": "hexcasting-forge-1.19.2-0.10.3.jar",
+            "projectID": 569849,
+            "fileID": 4166956
         },
         {
             "fileName": "inventoryessentials-forge-1.19-5.0.2.jar",
             "projectID": 368825,
             "fileID": 4414160
+        },
+        {
+            "fileName": "immersive_weathering-1.19.2-1.2.9-forge.jar",
+            "projectID": 592449,
+            "fileID": 4478201
+        },
+        {
+            "fileName": "ItemPhysic_FORGE_v1.6.6_mc1.19.2.jar",
+            "projectID": 258587,
+            "fileID": 4061326
         },
         {
             "fileName": "libIPN-forge-1.19-2.0.4.jar",
@@ -1075,9 +1030,9 @@
             "fileID": 4480646
         },
         {
-            "fileName": "ItemPhysic_FORGE_v1.6.6_mc1.19.2.jar",
-            "projectID": 258587,
-            "fileID": 4061326
+            "fileName": "JadeAddons-1.19.2-forge-3.4.0.jar",
+            "projectID": 583345,
+            "fileID": 4375915
         },
         {
             "fileName": "CreativeCore_FORGE_v2.9.3_mc1.19.2.jar",
@@ -1085,9 +1040,9 @@
             "fileID": 4121643
         },
         {
-            "fileName": "iwannaskate-1.0.1.jar",
-            "projectID": 695018,
-            "fileID": 4069290
+            "fileName": "jeed-1.19.2-1.18.jar",
+            "projectID": 532286,
+            "fileID": 4277808
         },
         {
             "fileName": "Jade-1.19.1-forge-8.8.1.jar",
@@ -1095,24 +1050,14 @@
             "fileID": 4433884
         },
         {
-            "fileName": "JadeAddons-1.19.2-forge-3.4.0.jar",
-            "projectID": 583345,
-            "fileID": 4375915
-        },
-        {
-            "fileName": "jeed-1.19.2-1.18.jar",
-            "projectID": 532286,
-            "fileID": 4277808
+            "fileName": "JustEnoughProfessions-forge-1.19.2-2.0.2.jar",
+            "projectID": 417645,
+            "fileID": 4427313
         },
         {
             "fileName": "jepp-1.19-1.0.1.jar",
             "projectID": 546740,
             "fileID": 3843024
-        },
-        {
-            "fileName": "JustEnoughProfessions-forge-1.19.2-2.0.2.jar",
-            "projectID": 417645,
-            "fileID": 4427313
         },
         {
             "fileName": "JustEnoughResources-1.19.2-1.1.0.179.jar",
@@ -1123,6 +1068,11 @@
             "fileName": "labels-1.19.2-1.8.jar",
             "projectID": 688223,
             "fileID": 4354808
+        },
+        {
+            "fileName": "iwannaskate-1.0.1.jar",
+            "projectID": 695018,
+            "fileID": 4069290
         },
         {
             "fileName": "lazydfu-1.19-1.0.2.jar",
@@ -1140,11 +1090,6 @@
             "fileID": 3949688
         },
         {
-            "fileName": "LeftHanging-forge-1.19.2-4.3.0.0.jar",
-            "projectID": 532595,
-            "fileID": 3951548
-        },
-        {
             "fileName": "littlelogistics-mc1.19.2-v1.3.2.jar",
             "projectID": 570050,
             "fileID": 4446369
@@ -1155,19 +1100,19 @@
             "fileID": 4050984
         },
         {
+            "fileName": "ImmersiveEngineering-1.19.2-9.2.1-164.jar",
+            "projectID": 231951,
+            "fileID": 4478894
+        },
+        {
+            "fileName": "LeftHanging-forge-1.19.2-4.3.0.0.jar",
+            "projectID": 532595,
+            "fileID": 3951548
+        },
+        {
             "fileName": "lootr-1.19-0.4.23.60.jar",
             "projectID": 361276,
             "fileID": 4465109
-        },
-        {
-            "fileName": "mahoutsukai-1.19.2-v1.34.42.jar",
-            "projectID": 342543,
-            "fileID": 4429903
-        },
-        {
-            "fileName": "Map Atlases-forge-1.19.2-3.0.1.jar",
-            "projectID": 519759,
-            "fileID": 3949437
         },
         {
             "fileName": "mcw-bridges-2.0.7-mc1.19.2forge.jar",
@@ -1180,14 +1125,34 @@
             "fileID": 4204550
         },
         {
+            "fileName": "mcw-trapdoors-1.0.9-mc1.19.2forge.jar",
+            "projectID": 400933,
+            "fileID": 4429507
+        },
+        {
             "fileName": "mcw-doors-1.0.9forge-mc1.19.2.jar",
             "projectID": 378646,
             "fileID": 4446154
         },
         {
-            "fileName": "mcw-trapdoors-1.0.9-mc1.19.2forge.jar",
-            "projectID": 400933,
-            "fileID": 4429507
+            "fileName": "Map Atlases-forge-1.19.2-3.0.1.jar",
+            "projectID": 519759,
+            "fileID": 3949437
+        },
+        {
+            "fileName": "mahoutsukai-1.19.2-v1.34.42.jar",
+            "projectID": 342543,
+            "fileID": 4429903
+        },
+        {
+            "fileName": "mcw-lights-1.0.5-mc1.19.2forge.jar",
+            "projectID": 502372,
+            "fileID": 4358264
+        },
+        {
+            "fileName": "mcw-paintings-1.0.4-mc1.19.2.jar",
+            "projectID": 438116,
+            "fileID": 3922999
         },
         {
             "fileName": "mcw-windows-2.1.1-mc1.19.2forge.jar",
@@ -1200,19 +1165,9 @@
             "fileID": 4429466
         },
         {
-            "fileName": "mcw-lights-1.0.5-mc1.19.2forge.jar",
-            "projectID": 502372,
-            "fileID": 4358264
-        },
-        {
-            "fileName": "mcw-furniture-3.1.0-mc1.19.2forge.jar",
-            "projectID": 359540,
-            "fileID": 4419012
-        },
-        {
-            "fileName": "mcw-paintings-1.0.4-mc1.19.2.jar",
-            "projectID": 438116,
-            "fileID": 3922999
+            "fileName": "Measurements-forge-1.19.2-1.3.1.jar",
+            "projectID": 478559,
+            "fileID": 4371566
         },
         {
             "fileName": "mcw-paths-1.0.2forge-mc1.19.2.jar",
@@ -1220,14 +1175,9 @@
             "fileID": 4126526
         },
         {
-            "fileName": "Measurements-forge-1.19.2-1.3.1.jar",
-            "projectID": 478559,
-            "fileID": 4371566
-        },
-        {
-            "fileName": "modnametooltip-1.19-1.19.0.jar",
-            "projectID": 238747,
-            "fileID": 3898427
+            "fileName": "mcw-furniture-3.1.0-mc1.19.2forge.jar",
+            "projectID": 359540,
+            "fileID": 4419012
         },
         {
             "fileName": "moredragoneggs-3.2.jar",
@@ -1235,19 +1185,19 @@
             "fileID": 4060624
         },
         {
+            "fileName": "modnametooltip-1.19-1.19.0.jar",
+            "projectID": 238747,
+            "fileID": 3898427
+        },
+        {
+            "fileName": "infernal-expansion-1.19.2-2.5.3.jar",
+            "projectID": 395078,
+            "fileID": 4002091
+        },
+        {
             "fileName": "morevillagers-forge-1.19-4.0.3.jar",
             "projectID": 484954,
             "fileID": 3891765
-        },
-        {
-            "fileName": "moreminecarts-1.5.7.jar",
-            "projectID": 440845,
-            "fileID": 4471589
-        },
-        {
-            "fileName": "moreiotas-forge-1.19.2-0.0.3.jar",
-            "projectID": 824728,
-            "fileID": 4388738
         },
         {
             "fileName": "Morph-o-Tool-1.6-34.jar",
@@ -1255,24 +1205,24 @@
             "fileID": 4100310
         },
         {
-            "fileName": "mosaic_carpentry-1.2-1.19.2.jar",
-            "projectID": 690226,
-            "fileID": 4068673
-        },
-        {
             "fileName": "moyai-1.19.2-2.0.1.jar",
             "projectID": 577252,
             "fileID": 4354803
         },
         {
-            "fileName": "mutantmore-1.19.2-early-access-1.0.7.jar",
-            "projectID": 831753,
-            "fileID": 4447467
-        },
-        {
             "fileName": "mysticaloaktree-1.19.2-1.8.jar",
             "projectID": 691002,
             "fileID": 4440240
+        },
+        {
+            "fileName": "moreminecarts-1.5.7.jar",
+            "projectID": 440845,
+            "fileID": 4471589
+        },
+        {
+            "fileName": "mosaic_carpentry-1.2-1.19.2.jar",
+            "projectID": 690226,
+            "fileID": 4068673
         },
         {
             "fileName": "NaturesAura-38.0.jar",
@@ -1300,11 +1250,6 @@
             "fileID": 4193014
         },
         {
-            "fileName": "occultism-1.19.2-1.74.0.jar",
-            "projectID": 361026,
-            "fileID": 4482597
-        },
-        {
             "fileName": "SmartBrainLib-forge-1.19.2-1.9.jar",
             "projectID": 661293,
             "fileID": 4458565
@@ -1325,9 +1270,9 @@
             "fileID": 4167054
         },
         {
-            "fileName": "Oreganized 1.19.2-2.0.2.jar",
-            "projectID": 769203,
-            "fileID": 4377982
+            "fileName": "Kiwi-1.19.1-forge-8.3.4.jar",
+            "projectID": 303657,
+            "fileID": 4451128
         },
         {
             "fileName": "PassableFoliage-1.19.1-forge-5.1.1.jar",
@@ -1335,14 +1280,14 @@
             "fileID": 4482613
         },
         {
-            "fileName": "Kiwi-1.19.1-forge-8.3.4.jar",
-            "projectID": 303657,
-            "fileID": 4451128
-        },
-        {
             "fileName": "patternedglass-forge-1.19.2-3.0.0.jar",
             "projectID": 495731,
             "fileID": 4180867
+        },
+        {
+            "fileName": "occultism-1.19.2-1.74.0.jar",
+            "projectID": 361026,
+            "fileID": 4482597
         },
         {
             "fileName": "personality-1.19-3.0.1.jar",
@@ -1350,24 +1295,19 @@
             "fileID": 3912029
         },
         {
-            "fileName": "pet_cemetery-1.19.2-1.0.3.jar",
-            "projectID": 565160,
-            "fileID": 4469393
-        },
-        {
             "fileName": "PigPen-Forge-1.19.2-11.1.2.jar",
             "projectID": 396234,
             "fileID": 3943074
         },
         {
+            "fileName": "pet_cemetery-1.19.2-1.0.3.jar",
+            "projectID": 565160,
+            "fileID": 4469393
+        },
+        {
             "fileName": "platforms-1.19-1.10.2.jar",
             "projectID": 244786,
             "fileID": 4311738
-        },
-        {
-            "fileName": "PlayerRevive_FORGE_v2.0.14_mc1.19.2.jar",
-            "projectID": 266890,
-            "fileID": 4095245
         },
         {
             "fileName": "polymorph-forge-0.46.1+1.19.2.jar",
@@ -1380,14 +1320,14 @@
             "fileID": 4226728
         },
         {
+            "fileName": "Oreganized 1.19.2-2.0.2.jar",
+            "projectID": 769203,
+            "fileID": 4377982
+        },
+        {
             "fileName": "kubejs-forge-1902.6.0-build.142.jar",
             "projectID": 238086,
             "fileID": 4377175
-        },
-        {
-            "fileName": "rhino-forge-1902.2.2-build.268.jar",
-            "projectID": 416294,
-            "fileID": 4476056
         },
         {
             "fileName": "radon-0.8.2.jar",
@@ -1395,19 +1335,19 @@
             "fileID": 3822783
         },
         {
+            "fileName": "blue_skies-1.19.2-1.3.20.jar",
+            "projectID": 312918,
+            "fileID": 3966273
+        },
+        {
+            "fileName": "rhino-forge-1902.2.2-build.268.jar",
+            "projectID": 416294,
+            "fileID": 4476056
+        },
+        {
             "fileName": "randomium-1.19.2-1.19.jar",
             "projectID": 523013,
             "fileID": 4022847
-        },
-        {
-            "fileName": "Reaper-1.0.4.jar",
-            "projectID": 688879,
-            "fileID": 4102432
-        },
-        {
-            "fileName": "spirit-forge-1.19.2-2.2.4.jar",
-            "projectID": 495509,
-            "fileID": 4427185
         },
         {
             "fileName": "botarium-forge-1.19.2-1.8.2.jar",
@@ -1415,19 +1355,19 @@
             "fileID": 4306551
         },
         {
-            "fileName": "rechiseled-1.0.12a-forge-mc1.19.jar",
-            "projectID": 558998,
-            "fileID": 4364936
+            "fileName": "spirit-forge-1.19.2-2.2.4.jar",
+            "projectID": 495509,
+            "fileID": 4427185
         },
         {
-            "fileName": "redstonepen-1.19.2-forge-1.2.20.jar",
-            "projectID": 461710,
-            "fileID": 4393700
+            "fileName": "PlayerRevive_FORGE_v2.0.14_mc1.19.2.jar",
+            "projectID": 266890,
+            "fileID": 4095245
         },
         {
-            "fileName": "RootsClassic-1.19.2-1.1.35.jar",
-            "projectID": 295780,
-            "fileID": 4441712
+            "fileName": "Reaper-1.0.4.jar",
+            "projectID": 688879,
+            "fileID": 4102432
         },
         {
             "fileName": "Runelic-Forge-1.19.2-14.1.4.jar",
@@ -1435,9 +1375,9 @@
             "fileID": 4337495
         },
         {
-            "fileName": "savage_and_ravage-1.19.2-5.0.4.jar",
-            "projectID": 381736,
-            "fileID": 4429231
+            "fileName": "RootsClassic-1.19.2-1.1.35.jar",
+            "projectID": 295780,
+            "fileID": 4441712
         },
         {
             "fileName": "saturn-mc1.19.2-0.0.1.jar",
@@ -1445,14 +1385,29 @@
             "fileID": 3981973
         },
         {
-            "fileName": "SBM-Jukebox-forge-1.19.2-1.0.7.jar",
-            "projectID": 292430,
-            "fileID": 4135246
+            "fileName": "redstonepen-1.19.2-forge-1.2.20.jar",
+            "projectID": 461710,
+            "fileID": 4393700
         },
         {
-            "fileName": "scarecrowsterritory-1.1.8-forge-mc1.19.jar",
-            "projectID": 435965,
-            "fileID": 4457568
+            "fileName": "rechiseled-1.0.12a-forge-mc1.19.jar",
+            "projectID": 558998,
+            "fileID": 4364936
+        },
+        {
+            "fileName": "mutantmore-1.19.2-early-access-1.0.7.jar",
+            "projectID": 831753,
+            "fileID": 4447467
+        },
+        {
+            "fileName": "moreiotas-forge-1.19.2-0.0.3.jar",
+            "projectID": 824728,
+            "fileID": 4388738
+        },
+        {
+            "fileName": "savage_and_ravage-1.19.2-5.0.4.jar",
+            "projectID": 381736,
+            "fileID": 4429231
         },
         {
             "fileName": "searchlight-1.19-forge-1.1.8.jar",
@@ -1465,24 +1420,9 @@
             "fileID": 4441019
         },
         {
-            "fileName": "SimpleDiscordLink-forge-1.19.1-2.2.1.jar",
-            "projectID": 541320,
-            "fileID": 4444164
-        },
-        {
-            "fileName": "SizeShiftingPotions-forge-1.19.2-1.5.1.jar",
-            "projectID": 447440,
-            "fileID": 4091934
-        },
-        {
-            "fileName": "skinned_lanterns-1.19.2-1.3.4.jar",
-            "projectID": 414154,
-            "fileID": 3970173
-        },
-        {
-            "fileName": "sleep_tight-1.19.2-1.0.15.jar",
-            "projectID": 817564,
-            "fileID": 4484041
+            "fileName": "scarecrowsterritory-1.1.8-forge-mc1.19.jar",
+            "projectID": 435965,
+            "fileID": 4457568
         },
         {
             "fileName": "smarterfarmers-1.19.2-1.7.1.jar",
@@ -1490,9 +1430,19 @@
             "fileID": 4381343
         },
         {
+            "fileName": "skinned_lanterns-1.19.2-1.3.4.jar",
+            "projectID": 414154,
+            "fileID": 3970173
+        },
+        {
             "fileName": "smoothboot(reloaded)-mc1.19.2-0.0.2.jar",
             "projectID": 633412,
             "fileID": 4162940
+        },
+        {
+            "fileName": "sleep_tight-1.19.2-1.0.15.jar",
+            "projectID": 817564,
+            "fileID": 4484041
         },
         {
             "fileName": "SnowRealMagic-1.19.2-forge-6.5.0.jar",
@@ -1500,9 +1450,9 @@
             "fileID": 4454932
         },
         {
-            "fileName": "snowyspirit-1.19.2-2.1.10.jar",
-            "projectID": 566142,
-            "fileID": 4479536
+            "fileName": "SizeShiftingPotions-forge-1.19.2-1.5.1.jar",
+            "projectID": 447440,
+            "fileID": 4091934
         },
         {
             "fileName": "snowundertrees-1.19.2-1.3.1.jar",
@@ -1515,29 +1465,19 @@
             "fileID": 3973206
         },
         {
-            "fileName": "some-assembly-required-1.19.2-3.0.1.jar",
-            "projectID": 422951,
-            "fileID": 4435938
-        },
-        {
-            "fileName": "koremods-modlauncher-0.6.1.jar",
-            "projectID": 544251,
-            "fileID": 4483786
-        },
-        {
             "fileName": "soundphysics-forge-1.19.2-1.0.18.jar",
             "projectID": 535489,
             "fileID": 4199798
         },
         {
-            "fileName": "spark-1.10.34-forge.jar",
-            "projectID": 361579,
-            "fileID": 4443553
-        },
-        {
             "fileName": "spiderstpo-1.19.2-2.0.4.jar",
             "projectID": 686058,
             "fileID": 4139288
+        },
+        {
+            "fileName": "some-assembly-required-1.19.2-3.0.1.jar",
+            "projectID": 422951,
+            "fileID": 4435938
         },
         {
             "fileName": "spyglass_improvements-1.4+mc1.19+forge.jar",
@@ -1555,24 +1495,19 @@
             "fileID": 3922675
         },
         {
+            "fileName": "spark-1.10.34-forge.jar",
+            "projectID": 361579,
+            "fileID": 4443553
+        },
+        {
+            "fileName": "snowyspirit-1.19.2-2.1.10.jar",
+            "projectID": 566142,
+            "fileID": 4479536
+        },
+        {
             "fileName": "tetrasdelight-1.19.2-1.jar",
             "projectID": 845576,
             "fileID": 4471173
-        },
-        {
-            "fileName": "the_bumblezone_forge-6.7.10-beta4+1.19.2.jar",
-            "projectID": 362479,
-            "fileID": 4492311
-        },
-        {
-            "fileName": "The_Undergarden-1.19.2-0.8.3.jar",
-            "projectID": 379849,
-            "fileID": 4057184
-        },
-        {
-            "fileName": "Undergarden-Tetra Patch-1.3.2-1.19.2.jar",
-            "projectID": 433071,
-            "fileID": 4374587
         },
         {
             "fileName": "ToastControl-1.19.2-7.0.0.jar",
@@ -1585,14 +1520,19 @@
             "fileID": 4124032
         },
         {
+            "fileName": "Undergarden-Tetra Patch-1.3.2-1.19.2.jar",
+            "projectID": 433071,
+            "fileID": 4374587
+        },
+        {
             "fileName": "toomanyglyphs-1.19.2-2.2.45.12185.jar",
             "projectID": 560595,
             "fileID": 4001247
         },
         {
-            "fileName": "totw_additions-1.2.3-1.19.x-forge.jar",
-            "projectID": 560091,
-            "fileID": 3857363
+            "fileName": "koremods-modlauncher-0.6.1.jar",
+            "projectID": 544251,
+            "fileID": 4483786
         },
         {
             "fileName": "TreeChop-1.19.2-forge-0.17.8a.jar",
@@ -1600,19 +1540,14 @@
             "fileID": 4426533
         },
         {
+            "fileName": "totw_additions-1.2.3-1.19.x-forge.jar",
+            "projectID": 560091,
+            "fileID": 3857363
+        },
+        {
             "fileName": "twigs-forge-2.0.1+1.19.2.jar",
             "projectID": 496913,
             "fileID": 4160178
-        },
-        {
-            "fileName": "twilightforest-1.19.2-4.2.1518-universal.jar",
-            "projectID": 227639,
-            "fileID": 4389567
-        },
-        {
-            "fileName": "upgrade_aquatic-1.19.2-5.0.0.jar",
-            "projectID": 326895,
-            "fileID": 4415517
         },
         {
             "fileName": "v_slab_compat-1.19.2-1.4.jar",
@@ -1620,24 +1555,9 @@
             "fileID": 4322499
         },
         {
-            "fileName": "Villager Comfort-1.19.2-1.0.0.jar",
-            "projectID": 690339,
-            "fileID": 4062997
-        },
-        {
-            "fileName": "villagertools-1.19-1.0.3.jar",
-            "projectID": 469301,
-            "fileID": 3914548
-        },
-        {
             "fileName": "vitalize-forge-1.19.2-1.1.1.jar",
             "projectID": 659274,
             "fileID": 4102437
-        },
-        {
-            "fileName": "voicechat-forge-1.19.2-2.4.4.jar",
-            "projectID": 416089,
-            "fileID": 4485470
         },
         {
             "fileName": "walljump-unofficial-1.6.1b-all+1.19.2.jar",
@@ -1645,14 +1565,24 @@
             "fileID": 4085822
         },
         {
-            "fileName": "windswept-1.19.2-2.2.2.jar",
-            "projectID": 636321,
-            "fileID": 4464804
+            "fileName": "upgrade_aquatic-1.19.2-5.0.0.jar",
+            "projectID": 326895,
+            "fileID": 4415517
+        },
+        {
+            "fileName": "villagertools-1.19-1.0.3.jar",
+            "projectID": 469301,
+            "fileID": 3914548
         },
         {
             "fileName": "woodworks-1.19.2-2.2.1.jar",
             "projectID": 543610,
             "fileID": 4396958
+        },
+        {
+            "fileName": "the_bumblezone_forge-6.7.10-beta4+1.19.2.jar",
+            "projectID": 362479,
+            "fileID": 4492311
         },
         {
             "fileName": "XaerosWorldMap_1.29.5_Forge_1.19.1.jar",
@@ -1665,9 +1595,24 @@
             "fileID": 4449132
         },
         {
+            "fileName": "SimpleDiscordLink-forge-1.19.1-2.2.1.jar",
+            "projectID": 541320,
+            "fileID": 4444164
+        },
+        {
             "fileName": "zetter-0.20.2-1.19.2-rc.jar",
             "projectID": 465532,
             "fileID": 4455856
+        },
+        {
+            "fileName": "voicechat-forge-1.19.2-2.4.4.jar",
+            "projectID": 416089,
+            "fileID": 4485470
+        },
+        {
+            "fileName": "connectivity-1.19.2-3.4.jar",
+            "projectID": 470193,
+            "fileID": 4066426
         },
         {
             "fileName": "additionallanterns-1.0.4-forge-mc1.19.jar",
@@ -1680,19 +1625,9 @@
             "fileID": 3921630
         },
         {
-            "fileName": "connectivity-1.19.2-3.4.jar",
-            "projectID": 470193,
-            "fileID": 4066426
-        },
-        {
-            "fileName": "create_connected_blocks-0.5.4.jar",
-            "projectID": 678956,
-            "fileID": 4226901
-        },
-        {
-            "fileName": "pneumaticcraft-repressurized-1.19.2-4.3.3-22.jar",
-            "projectID": 281849,
-            "fileID": 4412625
+            "fileName": "windswept-1.19.2-2.2.2.jar",
+            "projectID": 636321,
+            "fileID": 4464804
         },
         {
             "fileName": "compressedcreativity-1.19.2-0.1.5.jar",
@@ -1710,9 +1645,79 @@
             "fileID": 4476721
         },
         {
+            "fileName": "create_connected_blocks-0.5.4.jar",
+            "projectID": 678956,
+            "fileID": 4226901
+        },
+        {
             "fileName": "blockofsky-forge-0.1.0.jar",
             "projectID": 757062,
             "fileID": 4215645
+        },
+        {
+            "fileName": "twilightforest-1.19.2-4.2.1518-universal.jar",
+            "projectID": 227639,
+            "fileID": 4389567
+        },
+        {
+            "fileName": "pneumaticcraft-repressurized-1.19.2-4.3.3-22.jar",
+            "projectID": 281849,
+            "fileID": 4412625
+        },
+        {
+            "fileName": "The_Undergarden-1.19.2-0.8.3.jar",
+            "projectID": 379849,
+            "fileID": 4057184
+        },
+        {
+            "fileName": "alexsdelight-1.4.1.jar",
+            "projectID": 556448,
+            "fileID": 4282385
+        },
+        {
+            "fileName": "claysoldiers2-0.0.3.jar",
+            "projectID": 556740,
+            "fileID": 4259966
+        },
+        {
+            "fileName": "CreateShrunk-1.19.2-Forge-0.2.jar",
+            "projectID": 837782,
+            "fileID": 4486387
+        },
+        {
+            "fileName": "culturaldelights-1.19.2-0.15.1.jar",
+            "projectID": 574622,
+            "fileID": 4366957
+        },
+        {
+            "fileName": "curiouslanterns-1.19.2-1.2.2.jar",
+            "projectID": 621377,
+            "fileID": 4452734
+        },
+        {
+            "fileName": "ExperienceBugFix-1.19-1.41.2.3.jar",
+            "projectID": 486778,
+            "fileID": 4178188
+        },
+        {
+            "fileName": "hexerei-0.3.0.jar",
+            "projectID": 548599,
+            "fileID": 4466686
+        },
+        {
+            "fileName": "SBM-Jukebox-forge-1.19.2-1.0.7.jar",
+            "projectID": 292430,
+            "fileID": 4135246
+        },
+        {
+            "fileName": "Villager Comfort-1.19.2-1.0.0.jar",
+            "projectID": 690339,
+            "fileID": 4062997
+        },
+        {
+            "fileName": "radiantgear-forge-2.0.1+1.19.2.jar",
+            "projectID": 602199,
+            "fileID": 4325449
         }
     ],
     "overrides": "overrides"
