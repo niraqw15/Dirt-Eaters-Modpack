@@ -8,8 +8,15 @@ while True:
     break
 
 path = ""
-if mode in "cC": path = settings.clientPath
-else: path = settings.serverPath
+folder = ""
+if mode in "cC": 
+  path = settings.clientPath
+  folder = "Client"
+elif mode in "sS": 
+  path = settings.serverPath
+  folder = "Server"
+
+print("Generating manifest from " + path + "/config.json")
 config = json.loads(open(path + "/config.json", "r", encoding="utf8").read())
 
 loaderType = config["loader"]["loaderType"]
@@ -51,8 +58,8 @@ for modInfo in config["mods"]:
         }
         files.append(mod)
 
-manifestFile = open("manifest.json", "w")
+manifestFile = open(folder + "/manifest.json", "w")
 manifestFile.write(json.dumps(manifest, indent=4))
 manifestFile.close()
 
-print("Finished generating from " + path)
+print("Finished writing to " + folder + "/manifest.json")
