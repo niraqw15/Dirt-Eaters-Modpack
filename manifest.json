@@ -1815,11 +1815,6 @@
             "fileID": 4404219
         },
         {
-            "fileName": "World Stripper-1.19.2-3.2.2.jar",
-            "projectID": 250603,
-            "fileID": 3921630
-        },
-        {
             "fileName": "connectivity-1.19.2-3.4.jar",
             "projectID": 470193,
             "fileID": 4066426
@@ -1848,11 +1843,6 @@
             "fileName": "starbunclemania-1.19.2-1.0.6.jar",
             "projectID": 746215,
             "fileID": 4476721
-        },
-        {
-            "fileName": "blockofsky-forge-0.1.0.jar",
-            "projectID": 757062,
-            "fileID": 4215645
         }
     ],
     "overrides": "overrides"
