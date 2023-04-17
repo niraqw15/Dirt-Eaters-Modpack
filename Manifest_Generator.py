@@ -1,6 +1,16 @@
 import json
+import settings
 
-config = json.loads(open("config.json", "r", encoding="utf8").read())
+mode = ""
+while True:
+  mode = input("Client or Server? (c/s)")
+  if mode in "csCS" and bool(mode):
+    break
+
+path = ""
+if mode in "cC": path = settings.clientPath
+else: path = settings.serverPath
+config = json.loads(open(path + "/config.json", "r", encoding="utf8").read())
 
 loaderType = config["loader"]["loaderType"]
 mcVersion = config["loader"]["mcVersion"]
@@ -44,3 +54,5 @@ for modInfo in config["mods"]:
 manifestFile = open("manifest.json", "w")
 manifestFile.write(json.dumps(manifest, indent=4))
 manifestFile.close()
+
+print("Finished generating from " + path)
