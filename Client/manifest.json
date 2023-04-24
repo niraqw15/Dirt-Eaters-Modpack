@@ -1095,11 +1095,6 @@
             "fileID": 4427313
         },
         {
-            "fileName": "JustEnoughResources-1.19.2-1.1.0.179.jar",
-            "projectID": 240630,
-            "fileID": 3951643
-        },
-        {
             "fileName": "labels-1.19.2-1.8.jar",
             "projectID": 688223,
             "fileID": 4354808
@@ -1108,11 +1103,6 @@
             "fileName": "lazydfu-1.19-1.0.2.jar",
             "projectID": 460819,
             "fileID": 4327266
-        },
-        {
-            "fileName": "LegendaryTooltips-1.19.2-forge-1.4.0.jar",
-            "projectID": 532127,
-            "fileID": 4278509
         },
         {
             "fileName": "Prism-1.19.1-1.0.2.jar",
@@ -1223,11 +1213,6 @@
             "fileName": "modelfix-1.8.jar",
             "projectID": 676136,
             "fileID": 4024855
-        },
-        {
-            "fileName": "modnametooltip-1.19-1.19.0.jar",
-            "projectID": 238747,
-            "fileID": 3898427
         },
         {
             "fileName": "moredragoneggs-3.2.jar",
@@ -1590,11 +1575,6 @@
             "fileID": 4426533
         },
         {
-            "fileName": "twigs-forge-2.0.1+1.19.2.jar",
-            "projectID": 496913,
-            "fileID": 4160178
-        },
-        {
             "fileName": "twilightforest-1.19.2-4.2.1518-universal.jar",
             "projectID": 227639,
             "fileID": 4389567
@@ -1663,16 +1643,6 @@
             "fileName": "create_connected_blocks-0.5.4.jar",
             "projectID": 678956,
             "fileID": 4226901
-        },
-        {
-            "fileName": "pneumaticcraft-repressurized-1.19.2-4.3.3-22.jar",
-            "projectID": 281849,
-            "fileID": 4412625
-        },
-        {
-            "fileName": "compressedcreativity-1.19.2-0.1.5.jar",
-            "projectID": 549381,
-            "fileID": 4278938
         },
         {
             "fileName": "WaterStrainer-1.19-14.1.1.jar",
@@ -1810,11 +1780,6 @@
             "fileID": 4501023
         },
         {
-            "fileName": "InventoryProfilesNext-forge-1.19-1.9.6.jar",
-            "projectID": 495267,
-            "fileID": 4501638
-        },
-        {
             "fileName": "jei-1.19.2-forge-11.6.0.1015.jar",
             "projectID": 238222,
             "fileID": 4494410
@@ -1878,6 +1843,31 @@
             "fileName": "zetter-0.21.0-1.19.2-rc.jar",
             "projectID": 465532,
             "fileID": 4493593
+        },
+        {
+            "fileName": "Portfolio-1.19.2-1.1.0-forge.jar",
+            "projectID": 851131,
+            "fileID": 4503350
+        },
+        {
+            "fileName": "MutantMonsters-v4.0.1-1.19.2-Forge.jar",
+            "projectID": 852665,
+            "fileID": 4499733
+        },
+        {
+            "fileName": "SelectablePainting-1.19.2-2.0.2.jar",
+            "projectID": 388638,
+            "fileID": 3932566
+        },
+        {
+            "fileName": "elenaidodge2-1.0.2.jar",
+            "projectID": 442962,
+            "fileID": 4127740
+        },
+        {
+            "fileName": "feathers-1.0.4.jar",
+            "projectID": 699933,
+            "fileID": 4416864
         }
     ],
     "overrides": "overrides"
