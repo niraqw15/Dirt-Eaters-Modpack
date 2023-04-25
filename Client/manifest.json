@@ -565,11 +565,6 @@
             "fileID": 4476781
         },
         {
-            "fileName": "Steam_Rails-1.19.2-1.1.1.jar",
-            "projectID": 688231,
-            "fileID": 4384699
-        },
-        {
             "fileName": "create_enchantment_industry-1.19.2-for-create-0.5.0.i-1.1.17.jar",
             "projectID": 688768,
             "fileID": 4489274
@@ -1863,6 +1858,11 @@
             "fileName": "feathers-1.0.4.jar",
             "projectID": 699933,
             "fileID": 4416864
+        },
+        {
+            "fileName": "Steam_Rails-1.2.2+forge-mc1.19.2.jar",
+            "projectID": 688231,
+            "fileID": 4504510
         }
     ],
     "overrides": "overrides"
