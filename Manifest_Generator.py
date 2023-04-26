@@ -24,7 +24,7 @@ mcVersion = config["loader"]["mcVersion"]
 loaderVersion = config["loader"]["loaderVersion"]
 
 packName = "Dirt Eaters Modpack"
-packVersion = "1.1"
+packVersion = "1.2"
 packAuthor = "niraqw15"
 
 manifest = {
