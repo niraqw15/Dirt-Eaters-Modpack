@@ -35,7 +35,7 @@
 	#Set to false to stop quark from adding its own advancements
 	"Enable Quark Advancements" = true
 	#Set to false to disable the popup message telling you that you can config quark in the q menu
-	"Enable Onboarding" = true
+	"Enable Onboarding" = false
 
 [categories]
 	Automation = true
@@ -144,7 +144,7 @@
 		# - woodworks
 		#This is done to prevent content overlap.
 		#You can turn this on to force the feature to be loaded even if the above mods are also loaded.
-		"Ignore Anti Overlap" = false
+		"Ignore Anti Overlap" = true
 		"Change Names" = true
 
 	[building.variant_chests]
@@ -152,7 +152,7 @@
 		# - woodworks
 		#This is done to prevent content overlap.
 		#You can turn this on to force the feature to be loaded even if the above mods are also loaded.
-		"Ignore Anti Overlap" = false
+		"Ignore Anti Overlap" = true
 		"Replace Worldgen Chests" = true
 		"Enable Reverting Wooden Chests" = true
 		#Chests to put in each structure. The format per entry is "structure=chest", where "structure" is a structure ID, and "chest" is a block ID, which must correspond to a standard chest block.
@@ -163,7 +163,7 @@
 		# - woodworks
 		#This is done to prevent content overlap.
 		#You can turn this on to force the feature to be loaded even if the above mods are also loaded.
-		"Ignore Anti Overlap" = false
+		"Ignore Anti Overlap" = true
 		"Change Names" = true
 
 	[building.thatch]
