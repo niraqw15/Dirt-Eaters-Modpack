@@ -1745,11 +1745,6 @@
             "fileID": 3947501
         },
         {
-            "fileName": "dynamic_asset_generator-quilt-1.19.2-1.2.0.jar",
-            "projectID": 577096,
-            "fileID": 4122977
-        },
-        {
             "fileName": "qfapi-4.0.0-beta.30_qsl-3.0.0-beta.29_fapi-0.76.0_mc-1.19.2.jar",
             "projectID": 634179,
             "fileID": 4460505
@@ -1808,6 +1803,11 @@
             "fileName": "lootjs-forge-1.19.2-2.8.0.jar",
             "projectID": 570630,
             "fileID": 4487197
+        },
+        {
+            "fileName": "dynamic_asset_generator-forge-1.19.2-1.2.0.jar",
+            "projectID": 577096,
+            "fileID": 4122975
         }
     ],
     "overrides": "overrides"
