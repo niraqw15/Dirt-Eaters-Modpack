@@ -935,6 +935,11 @@
             "fileID": 4478201
         },
         {
+            "fileName": "immersive-portals-2.3.5-mc1.19.2-forge.jar",
+            "projectID": 355440,
+            "fileID": 4477626
+        },
+        {
             "fileName": "incubation-1.19-3.0.0.jar",
             "projectID": 361718,
             "fileID": 3906687
@@ -1203,11 +1208,6 @@
             "fileName": "Kiwi-1.19.1-forge-8.3.4.jar",
             "projectID": 303657,
             "fileID": 4451128
-        },
-        {
-            "fileName": "patternedglass-forge-1.19.2-3.0.0.jar",
-            "projectID": 495731,
-            "fileID": 4180867
         },
         {
             "fileName": "personality-1.19-3.0.1.jar",
@@ -1480,19 +1480,9 @@
             "fileID": 4396958
         },
         {
-            "fileName": "Xaeros_Minimap_FP23.3.1_Forge_1.19.1.jar",
-            "projectID": 263466,
-            "fileID": 4449132
-        },
-        {
             "fileName": "additionallanterns-1.0.4-forge-mc1.19.jar",
             "projectID": 501590,
             "fileID": 4404219
-        },
-        {
-            "fileName": "connectivity-1.19.2-3.4.jar",
-            "projectID": 470193,
-            "fileID": 4066426
         },
         {
             "fileName": "create_connected_blocks-0.5.4.jar",
@@ -1710,11 +1700,6 @@
             "fileID": 4416864
         },
         {
-            "fileName": "Steam_Rails-1.2.2+forge-mc1.19.2.jar",
-            "projectID": 688231,
-            "fileID": 4504510
-        },
-        {
             "fileName": "BadMobs-1.19.2-16.1.3.jar",
             "projectID": 233258,
             "fileID": 4057652
@@ -1733,6 +1718,96 @@
             "fileName": "farsight-1.19.2-2.1.jar",
             "projectID": 495693,
             "fileID": 4017307
+        },
+        {
+            "fileName": "chefs-delight-1.0.1-forge-1.19.2.jar",
+            "projectID": 832983,
+            "fileID": 4423520
+        },
+        {
+            "fileName": "NoSeeNoTick-1.19.2-1.0.0.jar",
+            "projectID": 833405,
+            "fileID": 4420044
+        },
+        {
+            "fileName": "ImmediatelyFastReforged-1.19.2-1.1.12.jar",
+            "projectID": 839581,
+            "fileID": 4486026
+        },
+        {
+            "fileName": "deuf-1.19.2-1.3.jar",
+            "projectID": 296646,
+            "fileID": 3927653
+        },
+        {
+            "fileName": "excavated_variants-forge-1.19.2-1.0.3.jar",
+            "projectID": 577411,
+            "fileID": 3947501
+        },
+        {
+            "fileName": "dynamic_asset_generator-quilt-1.19.2-1.2.0.jar",
+            "projectID": 577096,
+            "fileID": 4122977
+        },
+        {
+            "fileName": "qfapi-4.0.0-beta.30_qsl-3.0.0-beta.29_fapi-0.76.0_mc-1.19.2.jar",
+            "projectID": 634179,
+            "fileID": 4460505
+        },
+        {
+            "fileName": "modernfix-mc1.19.2-3.4.1.jar",
+            "projectID": 790626,
+            "fileID": 4506943
+        },
+        {
+            "fileName": "memoryleakfix-forge-1.17+-1.0.0.jar",
+            "projectID": 627566,
+            "fileID": 4465268
+        },
+        {
+            "fileName": "Xaeros_Minimap_23.4.0_Forge_1.19.1.jar",
+            "projectID": 263420,
+            "fileID": 4492932
+        },
+        {
+            "fileName": "Steam_Rails-1.2.6+forge-mc1.19.2.jar",
+            "projectID": 688231,
+            "fileID": 4512539
+        },
+        {
+            "fileName": "waystones-forge-1.19.2-11.3.1.jar",
+            "projectID": 245755,
+            "fileID": 4442313
+        },
+        {
+            "fileName": "connectivity-1.19.2-3.8.jar",
+            "projectID": 470193,
+            "fileID": 4510473
+        },
+        {
+            "fileName": "ars_scalaes-1.19.2-1.9.0.jar",
+            "projectID": 630431,
+            "fileID": 4459241
+        },
+        {
+            "fileName": "ars_nouveau-1.19.2-3.13.4.jar",
+            "projectID": 401955,
+            "fileID": 4512859
+        },
+        {
+            "fileName": "hole_filler_mod-1.2.7-mc_1.19.2-forge.jar",
+            "projectID": 440585,
+            "fileID": 4226424
+        },
+        {
+            "fileName": "PortableHole-v4.0.0-1.19.2-Forge.jar",
+            "projectID": 682568,
+            "fileID": 4011441
+        },
+        {
+            "fileName": "lootjs-forge-1.19.2-2.8.0.jar",
+            "projectID": 570630,
+            "fileID": 4487197
         }
     ],
     "overrides": "overrides"
